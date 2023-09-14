@@ -1,0 +1,23 @@
+[16:00] Willkommen zu Data Collection (Q+A)!Hilfreiche Hinweise zur BigBlueButton-Benutzung siehe diese (kurzen) Anleitungs-Videos.Um per Telefon an dieser Konferenz teilzunehmen, wählen Sie:  +49-6131-63736-355 . Die Konferenz-PIN lautet:  43202. Um das Mikrofon per Telefon zu aktivieren/deaktivieren, drücken Sie die „0“.Welcome to Data Collection (Q+A)!For help on using BigBlueButton see these tutorial videos.To join this meeting by phone, dial: +49-6131-63736-355 . The conference PIN is 43202. To activate/deactivate the microphone by phone, press "0".This server is running BigBlueButton operated by ZDV@JGU.
+[16:14] Shayaan Malik: Sir I just have 1 question regarding the previous assignment
+[16:15] Shayaan Malik: We were told to add existing dara source for observational analysis
+[16:15] Shayaan Malik: data source*
+[16:15] Shayaan Malik: So I added fake data, and I hope its not a mistake
+[16:16] Tim Merker: Regarding the current assignment: "The second data set includes data on the salary of people in Germany. The data is accomplished by the
+age of each person and whether he or she works in the East or West of Germany." Can we use several plots to represent the data?
+[16:16] Shayaan Malik: Sure sir thanks a lot
+[16:17] Shayaan Malik: like random data created from scripts as it was shown in the lecture
+[16:17] Shayaan Malik: Sure sir thank you
+[16:17] Tim Merker: alright
+[16:18] Tim Merker: I usually start as soon as the assignment is published
+[16:20] Tim Merker: it is okay :)
+[16:20] Tim Merker: thanks
+[16:20] Shayaan Malik: It was hard to find if playing chess could increase the IQ, there is no real data about that on the internet
+[16:22] Shayaan Malik: That is why I had to fake it through random numbers, but now I understand that the research question was bad on my part
+[16:22] Shayaan Malik: Sure sir
+[16:23] Shayaan Malik: Thank you sir
+[16:23] Shayaan Malik: Indeed sir I understand now
+[16:24] AmirHossein BahariLashkari: excuse me sir, for the data source of the first assignment, could we mention data from a mobile application
+[16:26] AmirHossein BahariLashkari: thank you very much for the clarification
+[16:26] Mou Saha: In the first assignment, have not mentioned data only the case study is that fine?
+[16:27] Mou Saha: Yes
